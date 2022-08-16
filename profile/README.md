@@ -1,7 +1,4 @@
-<p align="center" style="text-align:center">
-  <img src="https://movielust.in/images/faviconit/favicon-72.png" alt="logo"/>
-  <h1 align="center">Movielust</h1>
-</p>
+# Movielust
 
 ### This is home to Movielust's complete codebase.
 
