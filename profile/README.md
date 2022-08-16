@@ -1,8 +1,8 @@
-# Movielust
+# ![logo](https://movielust.in/images/faviconit/favicon-32.png) Movielust
 
 ### This is home to Movielust's complete codebase.
 
-[Movielust](https://movielust.in)
+[Visit Movielust](https://movielust.in)
 
 ## Contact 
 
